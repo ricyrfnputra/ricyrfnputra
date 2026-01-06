@@ -1,25 +1,64 @@
-## About Me
+<h2 align="left">Hi I'm Ricy👋</h2>
 
-I’m an IT student low-key obsessed with web dev. Currently grinding as a beginner to become a super developer, I thrive on challenges and never back down from a bug. I’m all about pushing limits to build something sick! 🚀
+###
 
-## My Skills
+<p align="left">I’m an IT student low-key obsessed with web dev. Currently grinding as a beginner to become a super developer, I thrive on challenges and never back down from a bug. I’m all about pushing limits to build something sick! 🚀</p>
 
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
-<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
-<img src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff"> 
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
+###
 
-## GitHub Stats
+<h3 align="left">Tech</h3>
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=brandonc123&theme=dark&show_icons=true&count_private=true">
+###
 
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=brandonc123&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=brandonc123&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+</div>
 
-## Connect with me
+###
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">Ricy</a> Email: ricyrfnputra51@gmail.com</p>
+<h3 align="left"> Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ricyrfnputra&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+###
+
+<h3 align="left"> Social</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
+
+###
+
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ricyrfnputra.ricyrfnputra&"  />
+</div>
+
+###
