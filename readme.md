@@ -5,10 +5,11 @@
 <p align="left">I’m an IT student low-key obsessed with web dev. Currently grinding as a beginner to become a super developer, I thrive on challenges and never back down from a bug. I’m all about pushing limits to build something sick! 🚀</p>
 
 ###
-
+---
 <h3 align="left">🧑‍💻Tech</h3>
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -31,16 +32,17 @@
 </div>
 
 ###
+***
+<h3 align="left">📊 Stat</h3>
+
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricyrfnputra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ricyrfnputra&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
-
-###
-
+***
 <h3 align="left">🧑‍💼 Social</h3>
 
 ###
